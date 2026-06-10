@@ -719,6 +719,11 @@ margin-bottom: 0px;
 #covers .cover_seperator,#noty_bottomRight_layout_container .brackets:after,#noty_bottomRight_layout_container .brackets:before {
  display:none
 }
+#nav_friends {
+    position: absolute;
+    top: -99.5px;
+    right: -990px;
+}
 .thin>.header h1,.thin>.header h2,.thin>.header h3 {
  -ms-flex:1 0 auto;
  flex:1 0 auto
